@@ -1,0 +1,3 @@
+C:/Users/crist/Desktop/lab45sd/cmake-build-debug/CMakeFiles/lab45sd.dir
+C:/Users/crist/Desktop/lab45sd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crist/Desktop/lab45sd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

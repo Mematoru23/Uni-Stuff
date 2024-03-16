@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\repoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repoFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\repoFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0158CD20-13C4-4072-A527-B7F0BE2D2015}|lab9_10\\lab9_10.vcxproj|solutionrelative:lab9_10\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "repoFile.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repoFile.cpp",
+              "RelativeDocumentMoniker": "lab9_10\\repoFile.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repoFile.cpp",
+              "RelativeToolTip": "lab9_10\\repoFile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:41:02.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\output.txt",
+              "RelativeDocumentMoniker": "lab9_10\\output.txt",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\output.txt",
+              "RelativeToolTip": "lab9_10\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-16T17:41:03.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\main.cpp",
+              "RelativeDocumentMoniker": "lab9_10\\main.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\main.cpp",
+              "RelativeToolTip": "lab9_10\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:41:03.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\product.cpp",
+              "RelativeDocumentMoniker": "lab9_10\\product.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\product.cpp",
+              "RelativeToolTip": "lab9_10\\product.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:41:03.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "repo.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repo.cpp",
+              "RelativeDocumentMoniker": "lab9_10\\repo.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repo.cpp",
+              "RelativeToolTip": "lab9_10\\repo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:41:03.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "service.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\service.cpp",
+              "RelativeDocumentMoniker": "lab9_10\\service.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\service.cpp",
+              "RelativeToolTip": "lab9_10\\service.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:41:03.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\ui.cpp",
+              "RelativeDocumentMoniker": "lab9_10\\ui.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\ui.cpp",
+              "RelativeToolTip": "lab9_10\\ui.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:41:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tests.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\tests.cpp",
+              "RelativeDocumentMoniker": "lab9_10\\tests.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\tests.cpp",
+              "RelativeToolTip": "lab9_10\\tests.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:41:03.432Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "repoFile.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repoFile.h",
+              "RelativeDocumentMoniker": "lab9_10\\repoFile.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repoFile.h",
+              "RelativeToolTip": "lab9_10\\repoFile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:41:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\ui.h",
+              "RelativeDocumentMoniker": "lab9_10\\ui.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\ui.h",
+              "RelativeToolTip": "lab9_10\\ui.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:41:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "service.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\service.h",
+              "RelativeDocumentMoniker": "lab9_10\\service.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\service.h",
+              "RelativeToolTip": "lab9_10\\service.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:41:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "repo.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repo.h",
+              "RelativeDocumentMoniker": "lab9_10\\repo.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\repo.h",
+              "RelativeToolTip": "lab9_10\\repo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:41:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "product.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\product.h",
+              "RelativeDocumentMoniker": "lab9_10\\product.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\OOP FMI\\lab9_10\\lab9_10\\product.h",
+              "RelativeToolTip": "lab9_10\\product.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:41:03.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+﻿  Source.cpp
+C:\Users\crist\Desktop\AG\colocv\colocv\Source.cpp(55,15): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(158,47): warning C4244: 'initializing': conversion from 'const double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<const double&>(_Other)' being compiled
+          with
+          [
+              _This=int,
+              _Other=const double &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<const double&>(_Other)' being compiled
+          with
+          [
+              _This=int,
+              _Other=const double &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : see reference to function template instantiation 'std::tuple<int>::tuple<std::_Exact_args_t,const double&,,0>(_Tag,_This2)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=const double &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : see reference to function template instantiation 'std::tuple<int>::tuple<std::_Exact_args_t,const double&,,0>(_Tag,_This2)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=const double &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : see reference to function template instantiation 'std::tuple<int,int>::tuple<std::_Exact_args_t,const int&,const double&,0>(_Tag,_This2,const double &)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=const int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : see reference to function template instantiation 'std::tuple<int,int>::tuple<std::_Exact_args_t,const int&,const double&,0>(_Tag,_This2,const double &)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=const int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(860): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<std::_Exact_args_t,const int&,const int&,const double&,0>(_Tag,_This2,const int &,const double &)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=const int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(860): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<std::_Exact_args_t,const int&,const int&,const double&,0>(_Tag,_This2,const int &,const double &)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=const int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(252): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<std::_Unpack_tuple_t,const std::tuple<int,int,double>&,0,1,2,0>(_Tag,_Tpl,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=const std::tuple<int,int,double> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(252): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<std::_Unpack_tuple_t,const std::tuple<int,int,double>&,0,1,2,0>(_Tag,_Tpl,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=const std::tuple<int,int,double> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(356): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<std::_Unpack_tuple_t,const std::tuple<int,int,double>&,0>(_Tag,_Tpl)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=const std::tuple<int,int,double> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(356): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<std::_Unpack_tuple_t,const std::tuple<int,int,double>&,0>(_Tag,_Tpl)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=const std::tuple<int,int,double> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(7364): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<int,int,double,0>(const std::tuple<int,int,double> &) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(7363): message : see reference to function template instantiation 'std::tuple<int,int,int>::tuple<int,int,double,0>(const std::tuple<int,int,double> &) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(7441): message : see reference to function template instantiation 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,bool(__cdecl *)(const std::tuple<int,int,int> &,const std::tuple<int,int,int> &)>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=std::tuple<int,int,double> *,
+              _Pr=bool (__cdecl *)(const std::tuple<int,int,int> &,const std::tuple<int,int,int> &)
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(7460): message : see reference to function template instantiation 'void std::_Sort_unchecked<std::tuple<int,int,double>*,bool(__cdecl *)(const std::tuple<int,int,int> &,const std::tuple<int,int,int> &)>(_RanIt,_RanIt,__int64,_Pr)' being compiled
+          with
+          [
+              _RanIt=std::tuple<int,int,double> *,
+              _Pr=bool (__cdecl *)(const std::tuple<int,int,int> &,const std::tuple<int,int,int> &)
+          ]
+C:\Users\crist\Desktop\AG\colocv\colocv\Source.cpp(61): message : see reference to function template instantiation 'void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,bool(__cdecl *)(const std::tuple<int,int,int> &,const std::tuple<int,int,int> &)>(const _RanIt,const _RanIt,_Pr)' being compiled
+          with
+          [
+              _Ty=std::tuple<int,int,double>,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::tuple<int,int,double>>>>,
+              _Pr=bool (__cdecl *)(const std::tuple<int,int,int> &,const std::tuple<int,int,int> &)
+          ]
+  colocv.vcxproj -> C:\Users\crist\Desktop\AG\colocv\x64\Debug\colocv.exe

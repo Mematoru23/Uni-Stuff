@@ -1,0 +1,19 @@
+﻿  App.cpp
+  IteratorMDO.cpp
+C:\Users\Cristi\Desktop\idk\Useless dogshit\SDA\Lab6p25MDO\Lab6MDO\IteratorMDO.cpp(56,10): warning C4312: 'type cast': conversion from 'const _Ty1' to 'Relatie' of greater size
+          with
+          [
+              _Ty1=TCheie
+          ]
+  MDO.cpp
+C:\Users\Cristi\Desktop\idk\Useless dogshit\SDA\Lab6p25MDO\Lab6MDO\MDO.cpp(54,8): warning C4312: 'type cast': conversion from '_Ty1' to 'Relatie' of greater size
+          with
+          [
+              _Ty1=TCheie
+          ]
+  TestExtins.cpp
+C:\Users\Cristi\Desktop\idk\Useless dogshit\SDA\Lab6p25MDO\Lab6MDO\TestExtins.cpp(121,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cristi\Desktop\idk\Useless dogshit\SDA\Lab6p25MDO\Lab6MDO\TestExtins.cpp(139,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  Generating Code...
+  Lab6MDO.vcxproj -> C:\Users\Cristi\Desktop\idk\Useless dogshit\SDA\Lab6p25MDO\x64\Debug\Lab6MDO.exe

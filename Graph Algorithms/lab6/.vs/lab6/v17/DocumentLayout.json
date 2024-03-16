@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B09589E-CD63-492D-A0CE-42BF5563E4E7}|lab6\\lab6.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B09589E-CD63-492D-A0CE-42BF5563E4E7}|lab6\\lab6.vcxproj|solutionrelative:lab6\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B09589E-CD63-492D-A0CE-42BF5563E4E7}|lab6\\lab6.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\text.out||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7B09589E-CD63-492D-A0CE-42BF5563E4E7}|lab6\\lab6.vcxproj|solutionrelative:lab6\\text.out||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B09589E-CD63-492D-A0CE-42BF5563E4E7}|lab6\\lab6.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7B09589E-CD63-492D-A0CE-42BF5563E4E7}|lab6\\lab6.vcxproj|solutionrelative:lab6\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text.out",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\text.out",
+              "RelativeDocumentMoniker": "lab6\\text.out",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\text.out",
+              "RelativeToolTip": "lab6\\text.out",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJgSURBVDhPlZPPTxNREMe/3f7YLvRXurS0WgqxYkhjTZQDIQInPeCJePFqvHnn6B/h2TOJkZjQxIZ440JI7MVo2oSEVArS0jYpdC2F3Xa7z3mva3QlHpxkMm/ezvezM7OtC7Ztbb1l9vGfFlPD0aWVJ\u002Bd2CjDGHIDXwyUYFtAfYhTtc99iMC0Nb9QSggFZffT46Zktg2RHYX43Od343QwKOc9lfud2wedWsLa2iu6F0d7efhe1JdcBiodhNiLhRTaAu1G3gI0gXpy1m1hZfgDDsNqZTEZ07wDwt04HPXg2G8bLXAS9gUXCoYD4JAkL22O4X1BErb70XOXRAVD9QDbqw\u002BrMGGUWpgISJmimCZkhRroJxUWR2iGTXJD4Dh2AezEZ83EfnWh75LdCHiwkZCwm/XiY8GE56SXnzwHPSPlbz78CYz1yndyw49Vfd33hvJZ2MM51jg76/Ss0GnWcntahaedot1totRro9X6g29VwcvIdtVpN1A4GA6F1AHZ3i9jczOPoqIpqtYqNjfdCYBg6CoWPyOc/oF4fAXRd9/DoABSLX5BO38TeXhGJhFgy/dgsAh4TxIBlWSiVyuLeNM3rgHhcRS53h\u002Bh9TE6qCIUC8Pu91P4FUqkkpqdv0GiaqJUkiW/aCTBNCzs7n5DN3sbBwTd0Ol3qqoS5uRns71dQLh9gcXFe1Hq9XlMcfhnfrK7XWLO5T5tuMk07ZMdHX1n18DPlLZF3OhV2eXksvkI6nQ5ynaMD2edGPBbhgyMUVDCVUpFOxSgfijwcHocsi9F5B2KE//o7/2nr66\u002BUSqWi/wSgoSMIRJdA3AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-16T17:53:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\text.txt",
+              "RelativeDocumentMoniker": "lab6\\text.txt",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\text.txt",
+              "RelativeToolTip": "lab6\\text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-16T17:53:33.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\Source.cpp",
+              "RelativeDocumentMoniker": "lab6\\Source.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab6\\lab6\\Source.cpp",
+              "RelativeToolTip": "lab6\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:53:33.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

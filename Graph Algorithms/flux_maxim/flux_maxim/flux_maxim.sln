@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flux_maxim", "flux_maxim\flux_maxim.vcxproj", "{825A1F53-68EB-4955-A10E-0C30F526576D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Debug|x64.ActiveCfg = Debug|x64
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Debug|x64.Build.0 = Debug|x64
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Debug|x86.ActiveCfg = Debug|Win32
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Debug|x86.Build.0 = Debug|Win32
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Release|x64.ActiveCfg = Release|x64
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Release|x64.Build.0 = Release|x64
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Release|x86.ActiveCfg = Release|Win32
+		{825A1F53-68EB-4955-A10E-0C30F526576D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC11A057-F1EC-495E-BB1D-1FB82DA59FDF}
+	EndGlobalSection
+EndGlobal

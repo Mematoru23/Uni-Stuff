@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Cristi\Desktop\idk\Useless dogshit\AG\flux_maxim\flux_maxim\flux_maxim\Source.cpp(8,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cristi\Desktop\idk\Useless dogshit\AG\flux_maxim\flux_maxim\flux_maxim\Source.cpp(9,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  flux_maxim.vcxproj -> C:\Users\Cristi\Desktop\idk\Useless dogshit\AG\flux_maxim\flux_maxim\x64\Debug\flux_maxim.exe

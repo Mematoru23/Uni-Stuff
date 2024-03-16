@@ -1,0 +1,9 @@
+﻿  main.cpp
+  repo.cpp
+  service.cpp
+  square.cpp
+C:\Users\Cristi\Desktop\idk\Useless dogshit\OOP FMI\lab5\lab5\square.cpp(63,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  tests.cpp
+  ui.cpp
+  Generating Code...
+  lab5.vcxproj -> C:\Users\Cristi\Desktop\idk\Useless dogshit\OOP FMI\lab5\x64\Debug\lab5.exe

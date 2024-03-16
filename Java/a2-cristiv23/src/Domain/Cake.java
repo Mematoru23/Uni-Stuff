@@ -1,0 +1,26 @@
+package src.Domain;
+
+import src.Domain.Entity;
+
+public class Cake extends Entity {
+    private String cakeType;
+
+    public Cake(int id, String cakeType) {
+        super(id);
+        this.cakeType = cakeType;
+    }
+
+    public String getCakeType() {
+        return this.cakeType;
+    }
+
+    public void setCakeType(String cakeType) {
+        this.cakeType = cakeType;
+    }
+
+    @Override
+    public String toString()
+    {
+        return String.format("Id: %d | CakeType: %s", this.id, this.cakeType);
+    }
+}

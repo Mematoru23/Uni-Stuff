@@ -1,0 +1,6 @@
+1;jkjkj;5
+2;aaaaaa;23
+3;kk;43
+4;ada;99
+6;orice;44
+14;oricinve;316

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\DynamicVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\DynamicVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\inout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\inout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Atm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\Atm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Transaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\Transaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Atm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\Atm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\inout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\inout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\DynamicVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\DynamicVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Collection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\Collection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Collection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A192EF71-04F4-4DE5-8061-228E616E2DC3}|Lab3SD\\Lab3SD.vcxproj|solutionrelative:Lab3SD\\Collection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Collection.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Collection.cpp",
+              "RelativeDocumentMoniker": "Lab3SD\\Collection.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Collection.cpp",
+              "RelativeToolTip": "Lab3SD\\Collection.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:44:04.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicVector.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\DynamicVector.cpp",
+              "RelativeDocumentMoniker": "Lab3SD\\DynamicVector.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\DynamicVector.cpp",
+              "RelativeToolTip": "Lab3SD\\DynamicVector.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:44:04.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inout.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\inout.cpp",
+              "RelativeDocumentMoniker": "Lab3SD\\inout.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\inout.cpp",
+              "RelativeToolTip": "Lab3SD\\inout.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:44:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Atm.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Atm.cpp",
+              "RelativeDocumentMoniker": "Lab3SD\\Atm.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Atm.cpp",
+              "RelativeToolTip": "Lab3SD\\Atm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:44:04.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\main.cpp",
+              "RelativeDocumentMoniker": "Lab3SD\\main.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\main.cpp",
+              "RelativeToolTip": "Lab3SD\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:44:05.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Transaction.cpp",
+              "RelativeDocumentMoniker": "Lab3SD\\Transaction.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Transaction.cpp",
+              "RelativeToolTip": "Lab3SD\\Transaction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:44:05.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Collection.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Collection.h",
+              "RelativeDocumentMoniker": "Lab3SD\\Collection.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Collection.h",
+              "RelativeToolTip": "Lab3SD\\Collection.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:44:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DynamicVector.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\DynamicVector.h",
+              "RelativeDocumentMoniker": "Lab3SD\\DynamicVector.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\DynamicVector.h",
+              "RelativeToolTip": "Lab3SD\\DynamicVector.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:44:05.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Transaction.h",
+              "RelativeDocumentMoniker": "Lab3SD\\Transaction.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Transaction.h",
+              "RelativeToolTip": "Lab3SD\\Transaction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:44:05.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inout.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\inout.h",
+              "RelativeDocumentMoniker": "Lab3SD\\inout.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\inout.h",
+              "RelativeToolTip": "Lab3SD\\inout.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:44:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Atm.h",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Atm.h",
+              "RelativeDocumentMoniker": "Lab3SD\\Atm.h",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\SD FMI\\Lab3SD\\Lab3SD\\Atm.h",
+              "RelativeToolTip": "Lab3SD\\Atm.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T17:44:05.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

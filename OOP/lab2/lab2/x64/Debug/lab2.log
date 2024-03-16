@@ -1,0 +1,6 @@
+﻿  properties.cpp
+C:\Users\Cristi\Desktop\idk\Useless dogshit\OOP FMI\lab2\lab2\properties.cpp(75,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  main.cpp
+  tests.cpp
+  Generating Code...
+  lab2.vcxproj -> C:\Users\Cristi\Desktop\idk\Useless dogshit\OOP FMI\lab2\x64\Debug\lab2.exe

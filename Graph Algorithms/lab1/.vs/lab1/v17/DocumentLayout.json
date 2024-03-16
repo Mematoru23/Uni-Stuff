@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{537CE6CA-45D4-4E55-A693-DB478226ADE6}|lab1\\lab1.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab1\\lab1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{537CE6CA-45D4-4E55-A693-DB478226ADE6}|lab1\\lab1.vcxproj|solutionrelative:lab1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537CE6CA-45D4-4E55-A693-DB478226ADE6}|lab1\\lab1.vcxproj|C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab1\\lab1\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{537CE6CA-45D4-4E55-A693-DB478226ADE6}|lab1\\lab1.vcxproj|solutionrelative:lab1\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "in.txt",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab1\\lab1\\in.txt",
+              "RelativeDocumentMoniker": "lab1\\in.txt",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab1\\lab1\\in.txt",
+              "RelativeToolTip": "lab1\\in.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-16T17:53:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab1\\lab1\\Source.cpp",
+              "RelativeDocumentMoniker": "lab1\\Source.cpp",
+              "ToolTip": "C:\\Users\\Cristi\\Desktop\\idk\\Useless dogshit\\AG\\lab1\\lab1\\Source.cpp",
+              "RelativeToolTip": "lab1\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:53:22.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

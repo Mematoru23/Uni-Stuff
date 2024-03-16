@@ -1,0 +1,4 @@
+25 | daa | 33
+21 | croissant | 5
+11 | fanta | 2.5
+23 | ceva | 100

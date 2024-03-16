@@ -1,0 +1,71 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>431d2f64-4495-4f2d-b1dd-cec646edc283</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>lab7-9p2</Name>
+    <RootNamespace>lab7-9p2</RootNamespace>
+    <SuppressConfigureTestFrameworkPrompt>true</SuppressConfigureTestFrameworkPrompt>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Domain\assignment.py" />
+    <Compile Include="Errors\errors.py" />
+    <Compile Include="Repo\repo_assignments.py" />
+    <Compile Include="Repo\repo_assignments_file.py" />
+    <Compile Include="Repo\repo_problems.py" />
+    <Compile Include="Repo\repo_problems_file.py" />
+    <Compile Include="Repo\repo_students.py" />
+    <Compile Include="Repo\repo_students_file.py" />
+    <Compile Include="Service\service_assignments.py" />
+    <Compile Include="Service\service_problems.py" />
+    <Compile Include="Service\service_students.py" />
+    <Compile Include="Tests\teste_unittesting.py" />
+    <Compile Include="Tests\test_domain.py" />
+    <Compile Include="Tests\test_repo.py" />
+    <Compile Include="Tests\test_service.py" />
+    <Compile Include="UI\console.py" />
+    <Compile Include="main.py" />
+    <Compile Include="Domain\problem.py" />
+    <Compile Include="Domain\student.py" />
+    <Compile Include="UI\ui.py" />
+    <Compile Include="Validators\validate_problem.py" />
+    <Compile Include="Validators\validate_student.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Domain\" />
+    <Folder Include="Errors\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Tests\" />
+    <Folder Include="Repo\" />
+    <Folder Include="Service\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Repo\file_repo_assignments.txt" />
+    <Content Include="Repo\file_repo_problems.txt" />
+    <Content Include="Repo\file_repo_students.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
